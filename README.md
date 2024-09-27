@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mkzaw25101999
 - 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning Html, Css, JavaScript, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -- use this github
+- 📫 How to reach me -- tommy_izhere IG
 - 😄 Pronouns: ...he/him
 
 <!---
