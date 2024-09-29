@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkzaw25101999
+- 👋 Hi, I’m Tommy,25 and I am learner
 - 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning Html, Css, JavaScript, React
 - 📫 How to reach me -- tommy_izhere IG
