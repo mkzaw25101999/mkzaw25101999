@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tommy,25 and I am learner
-- 👀 I’m interested in  Web Development
-- 🌱 I’m currently learning Html, Css, JavaScript, React
+- 👋 HI! I'm Tommy, 25.
+- 👀 I’m interested in Full Stack Web Developer!!
+- 🌱 I’m currently learning Web Development, Java and SQL
 - 📫 How to reach me -- tommy_izhere IG
 - 😄 Pronouns: ...he/him
 
