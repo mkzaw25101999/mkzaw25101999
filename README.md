@@ -1,5 +1,5 @@
 - 👋 HI! I'm Tommy, 25.
-- 👀 I’m interested in Full Stack Web Developer!!
+- 👀 I’m interested in Full Stack Web Developer (especially in Front End)!!
 - 🌱 I’m currently learning Web Development, Java and SQL
 - 📫 How to reach me -- tommy_izhere IG
 - 😄 Pronouns: ...he/him
